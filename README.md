@@ -1,7 +1,6 @@
-# go
-## go-examples
+# go-examples
 
-### alpha.go files
-'''
+## alpha.go files
+```
 write to screen, hello world.
-'''
+```
