@@ -1,4 +1,7 @@
 # go
-go-examples
+## go-examples
 
-alpha => write to screen, hello world.
+### alpha.go files
+'''
+write to screen, hello world.
+'''
