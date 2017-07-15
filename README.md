@@ -12,3 +12,9 @@ tourGo files in all examples link:  [tourGolang](http://tour.golang.org/welcome/
   * packagesGo
   * importsGo
   * exported-namesGo
+  * functionsGo
+  * multiple-resultsGo
+  * named-resultsGo
+  * variablesGo
+  * short-variable-declarationsGo
+  * 
