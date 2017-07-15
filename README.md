@@ -4,7 +4,7 @@ All examples, I have tried to golang
 ### About to tourGo file
 tourGo files in all examples link              
 ```
-  [tourGolang](https://tour.golang.org/welcome/1)
+  [tourGolang](tour.golang.org/welcome/1)
 ```
 * firstTour
   * helloGo
