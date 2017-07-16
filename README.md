@@ -17,4 +17,17 @@ tourGo files in all examples link:  [tourGolang](http://tour.golang.org/welcome/
   * named-resultsGo
   * variablesGo
   * short-variable-declarationsGo
-  * 
+  * basic-typesGo
+  * zeroGo
+  * type-conversionGo
+  * type-inferenceGo
+  * constantsGo
+  * numeric-constantsGo
+* thirtTour
+  * forGo
+  * for-continuedGo
+  * for-is-gos-whileGo
+  * foreverGo
+  * ifGo
+  * if-with-a-short-statementGo
+  * if-and-elseGo
