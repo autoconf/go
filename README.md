@@ -1,6 +1,6 @@
-# go-examples
+## This repository, I'm learning golang
 All examples, I have tried to golang
-## Beginner To Golang
+
 ### About to tourGo file
 tourGo files in all examples link:  [tourGolang](http://tour.golang.org/welcome/1)
 
@@ -31,3 +31,9 @@ tourGo files in all examples link:  [tourGolang](http://tour.golang.org/welcome/
   * ifGo
   * if-with-a-short-statementGo
   * if-and-elseGo
+  * exercise-loops-and-functionsGo
+  * switchGo
+  * switch-evaluation-orderGo
+  * switch-with-no-conditionGo
+  * deferGo
+  * defer-multiGo
